@@ -4,7 +4,7 @@ using namespace std;
 int multiply(int a, int b) {
    return a * b;
 }
-int my_add(int a, int b) {
+int your_add(int a, int b) {
     return a + b;
 }
 
